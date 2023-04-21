@@ -8,4 +8,5 @@ Ela está hospedada aqui no GitHub e pode ser vista através do link: https://ma
 
 O resultado final foi o seguinte:
 
-![image](https://user-images.githubusercontent.com/109659867/233716801-95d396d6-8a21-48da-bdd6-871622194785.png)
+![image](https://user-images.githubusercontent.com/109659867/233717421-1a479e3e-e53e-4da6-af63-a6ecdbdc8b12.png)
+
